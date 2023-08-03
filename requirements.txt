@@ -1,0 +1,10 @@
+accelerate
+appdirs
+bitsandbytes
+datasets
+fire
+transformers
+peft
+torch
+sentencepiece
+matplotlib
